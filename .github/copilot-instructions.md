@@ -80,3 +80,23 @@ Contexto: Sou seu aluno de Python/automação. Projeto atual: [nome do projeto].
 Responda com código comentado + explicação + próximo desafio.
 
 Minha dúvida: [sua pergunta]
+
+## PROGRESSO ATUAL (Atualizar conforme avanço):
+
+- ✅ Projeto 1: API básica (cotacao_moedas.py)
+- ✅ Projeto 2: Google Sheets integration
+- 🎯 Projeto 3: Pipeline multi-fonte (PRÓXIMO)
+
+## FOCO AGORA:
+
+- Trabalhar com múltiplas APIs simultaneamente
+- Consolidar dados de fontes diferentes
+- Scheduling e automação temporal
+- Error handling robusto
+
+## ME DESAFIE COM:
+
+- Projetos que combinam 2+ tecnologias
+- Casos de uso do mundo real
+- Boas práticas de produção
+- Performance e otimização
